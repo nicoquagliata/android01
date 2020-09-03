@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Francais Android</string>
+    <string name="app_welcome">Bienvenue</string>
+    <string name="app_button">Entrer</string>
+    <string name="app_background_desc">bg desc</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deutsche Android</string>
+    <string name="app_welcome">Willkommen</string>
+    <string name="app_button">Betreten</string>
+    <string name="app_background_desc">bg desc</string>
+</resources>
